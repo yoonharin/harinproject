@@ -4,3 +4,4 @@ harinproject
 ##hello
 
 ##Update
+##Auto Merge
